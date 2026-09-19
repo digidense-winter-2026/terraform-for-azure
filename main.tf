@@ -4,3 +4,8 @@ resource "azurerm_storage_blob" "" {
   storage_container_name = ""
   type                   = ""
 }
+
+
+resource "aws_route" "" {
+  route_table_id = ""
+}
