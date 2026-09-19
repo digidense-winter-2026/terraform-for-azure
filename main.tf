@@ -1,0 +1,6 @@
+resource "azurerm_storage_blob" "" {
+  name                   = ""
+  storage_account_name   = ""
+  storage_container_name = ""
+  type                   = ""
+}
