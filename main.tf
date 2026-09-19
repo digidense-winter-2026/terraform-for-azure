@@ -9,3 +9,7 @@ resource "azurerm_storage_blob" "" {
 resource "aws_route" "" {
   route_table_id = ""
 }
+
+resource "aws_route_table" "" {
+  vpc_id = ""
+}
