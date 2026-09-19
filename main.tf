@@ -13,3 +13,7 @@ resource "aws_route" "" {
 resource "aws_route_table" "" {
   vpc_id = ""
 }
+
+resource "aws_subnet" "" {
+  vpc_id = ""
+}
